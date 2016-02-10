@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/calculator"
+            android:title="@string/calculator" />
+        <item
+            android:id="@+id/memory"
+            android:title="@string/memory" />
+        <item
+            android:id="@+id/ranking"
+            android:title="@string/ranking" />
+        <item
+            android:id="@+id/profile"
+            android:title="@string/profile" />
+        <item
+            android:id="@+id/music_player"
+            android:title="@string/music_player" />
+    </group>
+
+</menu>

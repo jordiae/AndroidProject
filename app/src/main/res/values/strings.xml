@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="result">Result</string>g>
+
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="dot">.</string>
+    <string name="equal">=</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="mult">x</string>
+    <string name="div">/</string>
+
+    <string name="call">Call</string>
+    <string name="notification">Notification</string>
+    <string name="toast">Toast</string>
+    <string name="browser">Browser</string>
+
+
+    <string name="login">Login</string>
+    <string name="sign_up">Sign up</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="logout">Log out</string>
+
+    <!-- Dialog memory -->
+    <string name="dialog_title">Memory</string>
+    <string name="dialog_message">Partida finalitzada</string>
+
+    <!-- Restart memory -->
+    <string name="restart">Restart</string>
+
+    <!-- Ranking -->
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!-- Base activity -->
+
+    <string name="title_activity_base">BaseActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="delete">Delete</string>
+    <string name="location_unavailable">Location unavailable</string>
+    <string name="memory">Memory</string>
+    <string name="ranking">Ranking</string>
+    <string name="profile">Profile</string>
+    <string name="calculator">Calculator</string>
+    <string name="music_player">Music Player</string>
+
+</resources>

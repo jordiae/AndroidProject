@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/call"
+        android:icon="@drawable/call"
+        app:showAsAction="ifRoom"
+        android:title="@string/call"/>
+
+
+    <item android:id="@+id/browser"
+        android:icon="@drawable/browser"
+        app:showAsAction="ifRoom"
+        android:title="@string/browser" />
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/notify"
+            android:title="@string/notification"/>
+
+        <item android:id="@+id/toast"
+            android:title="@string/toast" />
+    </group>
+
+    <item android:id="@+id/logout"
+        app:showAsAction="never"
+        android:title="@string/logout" />
+
+</menu>
